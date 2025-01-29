@@ -9,8 +9,8 @@ const Hero = () => {
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2">
           <img src={discount} alt="discount" className="w-[32px] h-[32px]"/>
           <p className='font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]'>
-              <span className='text-white'>20%</span> Discount For {" "}
-              <span className='text-white'>1 Month</span> Account
+              <span className='text-white'>Avix Ventures Pvt Ltd</span> {" "}
+              <span className='text-white'></span>
           </p>
         </div>
 
@@ -24,7 +24,7 @@ const Hero = () => {
         </div>
 
         <h1  className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>One Step Solution.</h1>
-        <p className='font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] max-w-[470px] mt-5'>Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. We examine annual percentage rates, annual fees.</p>
+        <p className='font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] max-w-[470px] mt-5'>Our expert team employs a tailored approach to deliver flawless event production, strategic marketing, and seamless artist management</p>
        </div>
        <div className='flex-1 flex justify-center items-center md:my-0 my-10 relative'>
           <img src={robot} alt="robot" className='w-[100%] h-[100%] relative z-[5]' />
